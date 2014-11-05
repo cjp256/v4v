@@ -1,6 +1,5 @@
 /******************************************************************************
  * drivers/xen/hypercall.h
- *
  * V4V interdomain communication driver.
  *
  * Copyright (c) 2009 Ross Philipson
