@@ -1,11 +1,9 @@
 /******************************************************************************
  * drivers/xen/hypercall.h
  * V4V interdomain communication driver.
- *
  * Copyright (c) 2009 Ross Philipson
  * Copyright (c) 2009 James McKenzie
  * Copyright (c) 2009 Citrix Systems, Inc.
- *
  * This program is free software; you can redistribute it and/or
  * modify it under the terms of the GNU General Public License version 2
  * as published by the Free Software Foundation; or, when distributed
