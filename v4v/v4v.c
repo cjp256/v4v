@@ -1,6 +1,5 @@
 /******************************************************************************
  * drivers/xen/v4v/v4v.c
- 
  * V4V interdomain communication driver.
  * Copyright (c) 2009 Ross Philipson
  * Copyright (c) 2009 James McKenzie
